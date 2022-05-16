@@ -75,7 +75,7 @@
   <configuration>
 	<archive>
 	<manifest>
-		<mainClass>sneha.App</mainClass>
+		<mainClass>program22.App</mainClass>
 	</manifest>
 	</archive>
   </configuration>       
