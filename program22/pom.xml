@@ -75,10 +75,10 @@
           <configuration>
 	              <archive>
 	              <manifest>
-		                    <mainClass>sneha.App</mainClass>
+		              <mainClass>sneha.App</mainClass>
 	              </manifest>
 	              </archive>
-            </configuration>       
+          </configuration>       
         </plugin>
       </plugins>
     </pluginManagement>
