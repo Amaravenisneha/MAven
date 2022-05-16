@@ -70,16 +70,16 @@
           <version>3.0.0</version>
         </plugin>
         <plugin>
-          <artifactId>maven-jar-plugin</artifactId>
-          <version>3.0.2</version>
-          <configuration>
-	              <archive>
-	              <manifest>
-		              <mainClass>sneha.App</mainClass>
-	              </manifest>
-	              </archive>
-          </configuration>       
-        </plugin>
+  <artifactId>maven-jar-plugin</artifactId>
+   <version>3.0.2</version>
+  <configuration>
+	<archive>
+	<manifest>
+		<mainClass>sneha.App</mainClass>
+	</manifest>
+	</archive>
+  </configuration>       
+</plugin>
       </plugins>
     </pluginManagement>
   </build>
